@@ -1,4 +1,4 @@
-# PourMatcha
+# LeRobotHack
 
 ## Data Collection
 1. Navigate to the LeRobot directory:
